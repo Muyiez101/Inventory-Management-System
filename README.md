@@ -21,12 +21,6 @@ A fully automated stock management system built with **n8n**, **Telegram**, **Go
 
 ---
 
-## Live Demo
-
-🔗 **Dashboard:** [namywork-dashboard-production.up.railway.app](https://namywork-dashboard-production.up.railway.app)
-
----
-
 ## Screenshots
 
 ### Dashboard — Overview
